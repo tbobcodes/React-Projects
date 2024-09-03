@@ -24,6 +24,8 @@ function App() {
 
     persistData(newTodoList)
     setTodos(newTodoList)
+
+    
   }
 
   function handleEditTodo(index) {
